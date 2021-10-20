@@ -1,0 +1,17 @@
+@import 'variables';
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header {
+    h1 {
+        color: $color-red;
+    }
+}
+
+footer {
+    background: $background;
+    h1 {
+        text-align: center;
+    }
+}
